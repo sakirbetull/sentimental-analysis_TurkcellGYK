@@ -1,0 +1,1 @@
+# sentimental-analysis_TurkcellGYK
